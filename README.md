@@ -1,4 +1,4 @@
-# VideoChat
+# MultiPair VideoChat WebApplication Using DjangoWebSocket and WebRTC
 
 
 ## setup virtualenv
